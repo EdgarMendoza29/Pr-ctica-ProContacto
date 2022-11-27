@@ -159,7 +159,18 @@
     
     Son documentos que incluyen la información sobre el proceso, cómo restablecer el valor determinado al productos, o preguntas frecuentes, entre otras.
     
-### [Diagrama de relaciones]()
+### [Diagrama de relaciones](https://drive.google.com/file/d/1a2q9_RjPDBQdZ_ZTSSC2vlGxUWVzfOhh/view?usp=sharing)
+
+![Diagrama de relaciones](https://user-images.githubusercontent.com/111367485/204166200-845e0f75-0044-4444-9e40-e607041749f0.png)
+
+Como bien se observa en este diagrama de relaciones, se encuentra dividido en 4 partes. 
+
+Los de color verde se encuetran relacionados, debido a que trata del cliente, pues primero es un cliente potencial, pero luego se convierte en un cliente.
+
+Por otro lado en los de color azul, engloba todo el proceso, desde los acuerdos de la venta hasta que el cliente lo adquiere. Si bien podriá relacionarse con los de color verde, pero aun falta el proceso de ver que es lo que necesita el cliente. 
+
+Por ultimo se encuentran el color amarillo y morado, el amarillo es sobre atención a cliente y el morado sobre documentos sobre los procesos que se llevan acabo con las compras, por lo que no tiene mucha relación con los demas.
+
 
 
 ## Ejercicio 6
