@@ -117,6 +117,50 @@
 
 ## Ejercicio 5 
 
+### Definiciones
+
+1. Lead
+   
+   Básicamente es un usuario que, además de mostrar interés por tu negocio , también ha contactado a la empresa de forma positiva y además ha dejado algún tipo de contacto.
+    
+2. Account
+
+    Es una empresa con la que se encuentran o en algún momento hicieron negocios.
+
+3. Contact
+    
+    Son las personas que trabajan en las empresas, por lo regular se encuentran asociados a una account.
+
+4. Opportunity 
+    
+    Son los acuerdos que se encuentran en curso. Estos realizan un seguimiento detallado acerca de los acuerdos, desde para que cuentas son, quienes son los implicados y que cantidades de venta.
+
+5. Product
+
+    Son los servicios o artículos que la empresa vende a los clientes.
+
+6. PriceBook
+
+    Es una lista de productos con sus precios asociados.	
+
+7. Quote
+
+    Son los precios propuestos de los productos y servicios de la empresa.
+
+8. Asset
+    
+    Representa un producto adquirido o instalado por un cliente.  
+
+9. Case
+    
+    Es una pregunta, comentario o queja por parte del cliente. Los agentes la revisan y tratan de dar solución para generar una buena experiencia al cliente, mientras que los de ventas lo utilizan para analizar cómo es que puede afectar en el proceso de la venta.
+
+10.	Article
+    
+    Son documentos que incluyen la información sobre el proceso, cómo restablecer el valor determinado al productos, o preguntas frecuentes, entre otras.
+    
+### [Diagrama de relaciones]()
+
 
 ## Ejercicio 6
 
