@@ -109,7 +109,6 @@
 
     La diferencia es que en el punto numero 1, arroja una base de datos original. En el punto 2, el POST lo que hizo fue agregar la información de nombre y email, para luego arrojarme una serie de caracteres que es una especie de “número de cuenta” que me identifica. Por último, en el punto 3 se puede observar mi información ya añadida a la base de datos. 
 
-  
 ## Ejercicio 4
 
 [Perfil de Trailhead](https://trailblazer.me/id/emendoza75)
