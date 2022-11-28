@@ -319,7 +319,6 @@ Por ultimo se encuentran el color amarillo y morado, el amarillo es sobre atenci
     
     Salesforce es considerado un sistema CRM, sin embargo en actualidad también se está convirtiendo en un sistema ERP. Ya que gracias a las aplicaciones integradas a terceros logra abordar funcionalidades más allá de CRM.
 
-## Ejercicio 7
 
 
 
